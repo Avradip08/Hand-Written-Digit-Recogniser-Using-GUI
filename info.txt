@@ -1,0 +1,11 @@
+
+MNIST HandWritten Digits Classification Using GUI
+ 
+How To Run ?
+	1.Install Dependencies (pip install ..)
+		Python 3
+		Numpy,Sicpy
+		Tensorflow
+		Keras
+		Tkinter
+	2.Run The Classifier.py File
